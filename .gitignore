@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Demo1NewDbProject/.vs/Demo1NewDbProject/v16
+/Demo1NewDbProject/NewDbProject/bin/Debug
+/Demo1NewDbProject/NewDbProject/obj/Debug
