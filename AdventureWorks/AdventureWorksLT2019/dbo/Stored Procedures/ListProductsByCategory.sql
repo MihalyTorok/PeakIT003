@@ -27,4 +27,6 @@ BEGIN
 		,[ModifiedDate]
 	FROM SalesLT.Product
 	WHERE ProductCategoryID = @productCategoryID;
+
+	EXEC OtherSP;
 END
