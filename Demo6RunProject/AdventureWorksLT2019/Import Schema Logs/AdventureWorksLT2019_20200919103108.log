@@ -1,0 +1,81 @@
+9/19/2020 1:31:08 PM	This log contains information about the import schema operation into project 'AdventureWorksLT2019' on computer 'MISI00' by user 'Misi'.
+9/19/2020 1:31:08 PM	Import of database schema has started.
+9/19/2020 1:35:34 PM	Gathering database credentials
+9/19/2020 1:35:34 PM	Gathering database options
+9/19/2020 1:35:34 PM	Gathering generic database scoped configuration option
+9/19/2020 1:35:34 PM	Gathering users
+9/19/2020 1:35:34 PM	Gathering roles
+9/19/2020 1:35:34 PM	Gathering application roles
+9/19/2020 1:35:34 PM	Gathering role memberships
+9/19/2020 1:35:34 PM	Gathering filegroups
+9/19/2020 1:35:34 PM	Gathering full-text catalogs
+9/19/2020 1:35:34 PM	Gathering assemblies
+9/19/2020 1:35:34 PM	Gathering certificates
+9/19/2020 1:35:34 PM	Gathering symmetric keys
+9/19/2020 1:35:34 PM	Gathering encrypted symmetric keys
+9/19/2020 1:35:34 PM	Gathering schemas
+9/19/2020 1:35:34 PM	Gathering XML schema collections
+9/19/2020 1:35:34 PM	Gathering user-defined data types
+9/19/2020 1:35:34 PM	Gathering user-defined types
+9/19/2020 1:35:34 PM	Gathering table types
+9/19/2020 1:35:34 PM	Gathering unique keys for table types
+9/19/2020 1:35:34 PM	Gathering primary keys for table types
+9/19/2020 1:35:34 PM	Gathering indexes for table types
+9/19/2020 1:35:34 PM	Gathering check constraints for table types
+9/19/2020 1:35:34 PM	Gathering default constraints for table types
+9/19/2020 1:35:34 PM	Gathering partition functions
+9/19/2020 1:35:34 PM	Gathering partition schemes
+9/19/2020 1:35:34 PM	Gathering functions
+9/19/2020 1:35:34 PM	Gathering encrypted functions
+9/19/2020 1:35:34 PM	Gathering aggregates
+9/19/2020 1:35:35 PM	Gathering procedures
+9/19/2020 1:35:35 PM	Gathering encrypted procedures
+9/19/2020 1:35:35 PM	Gathering tables
+9/19/2020 1:35:36 PM	Gathering primary keys
+9/19/2020 1:35:36 PM	Gathering unique constraints
+9/19/2020 1:35:36 PM	Gathering foreign keys
+9/19/2020 1:35:36 PM	Gathering default constraints
+9/19/2020 1:35:36 PM	Gathering check constraints
+9/19/2020 1:35:36 PM	Gathering views
+9/19/2020 1:35:36 PM	Gathering encrypted views
+9/19/2020 1:35:36 PM	Gathering indexes
+9/19/2020 1:35:36 PM	Gathering statistics
+9/19/2020 1:35:37 PM	Gathering full-text index stoplists
+9/19/2020 1:35:37 PM	Gathering search property lists
+9/19/2020 1:35:37 PM	Gathering search properties
+9/19/2020 1:35:37 PM	Gathering full-text indexes
+9/19/2020 1:35:37 PM	Gathering column store indexes
+9/19/2020 1:35:37 PM	Gathering spatial indexes
+9/19/2020 1:35:37 PM	Gathering XML indexes
+9/19/2020 1:35:37 PM	Gathering Selective XML indexes
+9/19/2020 1:35:37 PM	Gathering encrypted triggers
+9/19/2020 1:35:37 PM	Gathering triggers
+9/19/2020 1:35:37 PM	Gathering encrypted and clr ddl triggers
+9/19/2020 1:35:37 PM	Gathering ddl triggers
+9/19/2020 1:35:37 PM	Creating edge constraints
+9/19/2020 1:35:37 PM	Gathering synonyms
+9/19/2020 1:35:37 PM	Gathering defaults
+9/19/2020 1:35:37 PM	Gathering data constraint uddt bindings
+9/19/2020 1:35:37 PM	Gathering rules
+9/19/2020 1:35:37 PM	Gathering data constraint uddt bindings
+9/19/2020 1:35:37 PM	Gathering message types
+9/19/2020 1:35:37 PM	Gathering queues
+9/19/2020 1:35:37 PM	Gathering contracts
+9/19/2020 1:35:37 PM	Gathering services
+9/19/2020 1:35:37 PM	Gathering event notifications
+9/19/2020 1:35:37 PM	Gathering remote service bindings
+9/19/2020 1:35:37 PM	Gathering broker priorities
+9/19/2020 1:35:37 PM	Gathering signatures
+9/19/2020 1:35:38 PM	Gathering data compression options
+9/19/2020 1:35:38 PM	Gathering sequence types
+9/19/2020 1:35:38 PM	Gathering security policies
+9/19/2020 1:35:38 PM	Gather column encryption keys
+9/19/2020 1:35:38 PM	Gathering column master keys
+9/19/2020 1:35:38 PM	Gathering external data sources
+9/19/2020 1:35:38 PM	Gathering external tables
+9/19/2020 1:35:38 PM	Gathering extended properties
+9/19/2020 1:35:44 PM	Scanning project for duplicate elements
+9/19/2020 1:35:45 PM	Finished duplicate element processing
+9/19/2020 1:35:50 PM	Finished importing database.
+9/19/2020 1:35:50 PM	A summary of the import was saved to the following location: D:\Repos\PeakIT003\Demo2ReverseEngineerDb\AdventureWorksLT2019\Import Schema Logs\AdventureWorksLT2019_20200919103108.log
+9/19/2020 1:35:50 PM	Click Finish to continue...
